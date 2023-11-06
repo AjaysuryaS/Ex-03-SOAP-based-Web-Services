@@ -2,7 +2,7 @@
 
 ## Aim:
 
-To create and execute SOAP-based web service program using server, client and client- side remote invocation.
+To create and execute SOAP-based web service program using server, client and client- side remote invocation. 
 
 ## Procedure:
 
